@@ -1,1 +1,1 @@
-# JAVA-Mavin-BankApplication
+# JAVA-Maven-BankApplication
